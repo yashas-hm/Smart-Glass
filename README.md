@@ -15,6 +15,23 @@ Students     :
 Team Leader Email: yashashm@gmail.com
 <br>
 
+## App Screenshots
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/8.jpg" width="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/9.jpg" width="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/10.jpg" width="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/11.jpg" width="200">
+ 
+## Device Images
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/1.jpg" width="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/2.jpg" height="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/3.jpg" height="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/4.jpg" height="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/5.jpg" height="200">
+ 
+## Demo Design Device
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/6.jpg" width="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/7.jpg" height="200">
+
 ## Steps to Use
 - Turn on switch on smartglass 
 - Download and install RetroWatch apk from repository

@@ -6,11 +6,11 @@ Low cost efficient Wearable SmartGlass.
 College Name : Indus University Ahmedabad<br>
 Mentor       : Sejal Thakkar<br>
 Students     : 
- - <b>Yashas H Majmudar</b>
- - Saumya Ramolia
- - Khushi Manek
- - Ritika Dhall
- - Frenil Patel
+ - <b>Yashas H Majmudar</b>(Programmed & Configured Hardware)
+ - Saumya Ramolia(Testing)
+ - Khushi Manek(Design)
+ - Ritika Dhall(Design)
+ - Frenil Patel(Research)
 <br>
 
 ## App Screenshots

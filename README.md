@@ -1,15 +1,6 @@
 # 🌟 Smart Glass
 
 Welcome to the world of innovation with our low-cost, high-efficiency smart glass powered by Arduino magic. Seamlessly blending into your daily routine, this cutting-edge device keeps you connected with real-time notifications from emails, messages, and handpicked apps. But it doesn't stop there – it's also your trusty timekeeper and navigation companion, ensuring you're always on the right path. Get ready to revolutionize your world with our Arduino-powered smart glass, where technology meets practicality in an elegant fusion of functionality and affordability.
-
-## 📸 App Screenshots
-Check out some snapshots of the app in action!
-
-[]()
-<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/8.jpg" width="200">
-<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/9.jpg" width="200">
-<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/10.jpg" width="200">
-<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/11.jpg" width="200">
  
 ## 📷 Device Images
 Take a closer look at our smart glass device.
@@ -27,6 +18,15 @@ Explore our demo design device!
 []()
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/6.jpg" width="200">
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/7.jpg" height="200">
+
+## 📸 App Screenshots
+Check out some snapshots of the app in action!
+
+[]()
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/8.jpg" width="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/9.jpg" width="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/10.jpg" width="200">
+<img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/11.jpg" width="200">
 
 ## 📝 Steps to Use
 1. Turn on the switch on the smart glass.

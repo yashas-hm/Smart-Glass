@@ -1,25 +1,15 @@
 # Smart Glass
-Low cost efficient Wearable SmartGlass.
-<br>
-
-## Team Details
-College Name : Indus University Ahmedabad<br>
-Mentor       : Sejal Thakkar<br>
-Students     : 
- - <b>Yashas H Majmudar</b>(Programmed & Configured Hardware)
- - Saumya Ramolia(Testing)
- - Khushi Manek(Design)
- - Ritika Dhall(Design)
- - Frenil Patel(Research)
-<br>
+A low-cost, high-efficiency smart glass crafted with Arduino wizardry. Seamlessly integrating into everyday life, this innovative device keeps you connected with real-time notifications from emails, messages, and handpicked apps. Beyond its communication prowess, it serves as your trusty timekeeper and navigational guide, ensuring you're always on track. Revolutionize your world with this Arduino-powered smart glass – where technology meets practicality in an elegant blend of functionality and affordability.
 
 ## App Screenshots
+[]()
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/8.jpg" width="200">
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/9.jpg" width="200">
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/10.jpg" width="200">
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/11.jpg" width="200">
  
 ## Device Images
+[]()
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/1.jpg" width="200">
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/2.jpg" height="200">
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/3.jpg" height="200">
@@ -27,6 +17,7 @@ Students     :
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/5.jpg" height="200">
  
 ## Demo Design Device
+[]()
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/6.jpg" width="200">
 <img src="https://github.com/yashas-hm/Smart-Glass/blob/main/images/7.jpg" height="200">
 
@@ -41,5 +32,5 @@ Students     :
 
 ## References
 - Adafruit Libraries
-- RetroWatch
+- [RetroWatch](https://embedded-lab.com/blog/retrowatch-a-diy-smartwatch-using-arduino/)
 - Arduino
